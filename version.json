@@ -1,5 +1,5 @@
 {
   "version": "1.0.3",
-  "download_url": "https://github.com/Sangenis11/apple-watch-app-updates/releases/download/v1.0.2/AppleWatchSetup.exe",
+  "download_url": "https://github.com/Sangenis11/apple-watch-app-updates/releases/download/v1.0.3/AppleWatchSetup.exe",
   "notes": "Incorporate the missing PID report into the summary report within the log folder."
 }
